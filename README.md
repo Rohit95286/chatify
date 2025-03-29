@@ -16,11 +16,13 @@ This is a **real-time chat application** built using **React ⚛️** on the fro
 ## 📸 Screenshots  
 ### Chat Interface 🖥️  
 The interface to send messages, enter a socket ID, or join a room.  
-![Chat Interface](./image1.png)  
+![Chat Interface] ![image](https://github.com/user-attachments/assets/47743b7f-c6bb-4285-b747-8b3656c609ab)
 
-### Server Logs 📜  
+
+### CLient Logs 📜  
 Logs showing user connections and message events.  
-![Server Logs](./image2.png)  
+![Server Logs] ![image](https://github.com/user-attachments/assets/dd935edc-32a1-41c4-855f-663cf43d91e3)
+
 
 ## 🛠️ Dependencies  
 ### **Frontend ⚛️**  
